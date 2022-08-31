@@ -18,6 +18,11 @@ p 7,8
 - sistema operacional Android foi desenvolvido pela Android, Inc
 - adquirida pelo Google em 2005
 
+## O SDK do Android
+-  SDK (Software Development Kit) do Android fornece as ferramentas necessárias para construir aplicativos Android.
+-  O emulador do Android, incluído no SDK do Android, permite executar aplicativos Android em um ambiente simulado dentro do Windows, Mac OS X ou Linux, sem
+usar um dispositivo Android real.
+- AVD (Android Virtual Device ou Dispositivo Android Virtual)
+- 
 
-pag48
 
